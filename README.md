@@ -1,5 +1,5 @@
 # Lottery Distributed Application
-Let's try your luck by using our Lottery distributed application built using Ethereum Smart contract, React.js, web3.
+Let's try your luck by using our Lottery distributed application built using Ethereum Smart contract, React.js, web3, Solidity.
 
 # DApps
 A decentralized application is a computer application that runs on a decentralized computing system. DApps have been popularized by distributed ledger technologies such as the Ethereum blockchain, where DApps are often referred to as smart contracts.
